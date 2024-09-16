@@ -1,3 +1,13 @@
 body {
-    background-color: skyblue;
+    background-color: #d9d3bf;
+}
+.background-element {
+    background-color: #32563a;
+}
+/* Custom font */
+.custom-font{
+    font-family: 'montserrat', sans-serif;
+}
+.raleway-font{
+    font-family: 'raleway', sans-serif;
 }
