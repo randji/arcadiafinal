@@ -11,3 +11,7 @@ body {
 .raleway-font{
     font-family: 'raleway', sans-serif;
 }
+.container {
+    width: 80 vh;
+    margin: 0 auto;
+}
